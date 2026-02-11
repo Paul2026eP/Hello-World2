@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <align> "center" </align>
     <h1>
         <marquee behavior="alternate" direction="left" scrollamount="10">
   Hello World !!! 
