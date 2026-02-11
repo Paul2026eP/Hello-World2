@@ -6,7 +6,9 @@
 </head>
 <body>
     <h1>
-Hello World !!!    
+        <marquee behavior="alternate" direction="left" scrollamount="10">
+  Hello World !!! 
+</marquee>   
     </h1>
     <h2>
         I am teacher John John; I like a little of I.T. ; so I am studing.  
